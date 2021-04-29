@@ -1,6 +1,6 @@
 # AWS Direct Connect
 
-FAQ - √
+FAQ
 
 Private connection to AWS DC, does not involve the Internet.
 
